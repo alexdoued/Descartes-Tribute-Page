@@ -1,0 +1,42 @@
+html {
+    font-size: 10px;
+}
+
+body {
+   
+  font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  text-align: justify;
+  color: #333;
+  margin: 0;
+  background-image: url("vintage\ \(63\).jpg");
+}
+
+img {
+    width: 100%;
+    display: block;
+    margin: auto;
+    max-width: 625px;
+  }
+  
+  h1, h2 {
+    text-align: center;
+  }
+
+  #main {
+      margin: 10px 40px;
+      background-color: #eee;
+  }
+  p {
+      text-align: center;
+  }
+  figcaption {
+    text-align: center;
+
+  }
+
+  #tribute-info {
+      padding-left: 30px;
+      padding-right: 30px;
+  }
